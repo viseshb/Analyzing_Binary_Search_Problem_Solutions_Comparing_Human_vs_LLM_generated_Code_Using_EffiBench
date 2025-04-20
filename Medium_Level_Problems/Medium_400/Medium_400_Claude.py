@@ -1,3 +1,5 @@
+#400. Nth Digit
+#https://leetcode.com/problems/nth-digit/
 import time
 
 class Solution:
